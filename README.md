@@ -17,5 +17,3 @@ A random color is generated when clicking on the color circle.
 All sounds can be muted by clicking on the sound icon. 
 Enjoy and share. 
   :) 
-
-<img src="feature.jpg" width="500" alt="">
